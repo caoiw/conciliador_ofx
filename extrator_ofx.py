@@ -1,6 +1,7 @@
 from ofxparse import OfxParser
 import pandas as pd
 import os
+from categorizador import categorizar
 
 
 def ler_ofx(caminho_arquivo):
@@ -9,11 +10,16 @@ def ler_ofx(caminho_arquivo):
 
     dados = []
     for t in ofx.account.statement.transactions:
+        descricao = t.memo
+        valor = t.amount
+        categoria = categorizar(descricao, valor)
+
         dados.append({
             'Data': t.date.date(),
-            'Descrição': t.memo,
-            'Valor': t.amount,
-            'Tipo': 'Crédito' if t.amount > 0 else 'Débito',
+            'Descrição': descricao,
+            'Valor': valor,
+            'Tipo': 'Crédito' if valor > 0 else 'Débito',
+            'Categoria': categoria,
             'Arquivo': os.path.basename(caminho_arquivo)
         })
 

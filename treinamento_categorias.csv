@@ -1,0 +1,201 @@
+Descricao,Categoria,Tipo
+SHOW EVENTIM,Lazer,debito
+ANUIDADE CARTÃO,Fatura/Taxas,debito
+TRANSFERENCIA ITAU,Transferências,debito
+PADARIA SANTA CLARA,Alimentação,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+RESTAURANTE PIZZA HUT,Lazer,debito
+METRÔ SÃO PAULO,Transporte,debito
+VENDA MERCADO LIVRE,Receita,credito
+MERCADO EXTRA,Alimentação,debito
+ESCOLA DE IDIOMAS WIZARD,Educacao,debito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+PAGAMENTO AMAZON PRIME,Assinaturas,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+FARMACIA DROGASIL,Saúde,debito
+UBER VIAGEM,Transporte,debito
+ANUIDADE CARTÃO,Fatura/Taxas,debito
+PAGAMENTO NETFLIX,Assinaturas,debito
+FARMACIA RAIA,Saúde,debito
+99 VIAGEM,Transporte,debito
+IMPOSTO INSS,Impostos,debito
+FREELANCE PROJETO XYZ,Receita,credito
+SALARIO EMPRESA ABC,Receita,credito
+CONTA VIVO FIBRA,Moradia,debito
+LABORATORIO FLEURY,Saúde,debito
+ESCOLA DE IDIOMAS WIZARD,Educacao,debito
+99 VIAGEM,Transporte,debito
+CINEMA CINEMARK,Lazer,debito
+FARMACIA RAIA,Saúde,debito
+TRANSFERENCIA BRADESCO,Transferências,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+IMPOSTO FGTS,Impostos,debito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+LABORATORIO FLEURY,Saúde,debito
+PIX MARIA,Transferências,debito
+PAGAMENTO AMAZON PRIME,Assinaturas,debito
+IMPOSTO FGTS,Impostos,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+FACULDADE ESTÁCIO,Educacao,debito
+CONTA ENEL,Moradia,debito
+TRANSFERENCIA ITAU,Transferências,credito
+RESTAURANTE OUTBACK,Lazer,debito
+TRANSFERENCIA BRADESCO,Transferências,credito
+METRÔ SÃO PAULO,Transporte,debito
+IMPOSTO FGTS,Impostos,debito
+UBER VIAGEM,Transporte,debito
+RESTAURANTE OUTBACK,Lazer,debito
+IMPOSTO DARF,Impostos,debito
+TRANSFERENCIA ITAU,Transferências,debito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+PAGAMENTO ALUGUEL,Moradia,debito
+IMPOSTO INSS,Impostos,debito
+PIX ANA,Transferências,debito
+PADARIA SANTA CLARA,Alimentação,debito
+FARMACIA RAIA,Saúde,debito
+99 VIAGEM,Transporte,debito
+PADARIA PÃO QUENTE,Alimentação,debito
+PIX MARIA,Transferências,debito
+PAGAMENTO AMAZON PRIME,Assinaturas,debito
+FREELANCE PROJETO XYZ,Receita,credito
+FACULDADE ESTÁCIO,Educacao,debito
+ÔNIBUS SPTRANS,Transporte,debito
+PAGAMENTO CARTÃO VISA,Fatura/Taxas,debito
+COMBUSTIVEL POSTO SHELL,Transporte,debito
+IMPOSTO DARF,Impostos,debito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+CURSO UDEMY,Educacao,debito
+PAGAMENTO AMAZON PRIME,Assinaturas,debito
+ANUIDADE CARTÃO,Fatura/Taxas,debito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+IMPOSTO INSS,Impostos,debito
+FREELANCE PROJETO XYZ,Receita,credito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+PAGAMENTO CARTÃO VISA,Fatura/Taxas,debito
+ÔNIBUS SPTRANS,Transporte,debito
+ANUIDADE CARTÃO,Fatura/Taxas,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+SALARIO EMPRESA XYZ,Receita,credito
+MANUTENÇÃO DE CONTA,Fatura/Taxas,debito
+DEPÓSITO JOÃO,Receita,credito
+FARMACIA DROGASIL,Saúde,debito
+FACULDADE ESTÁCIO,Educacao,debito
+MERCADO EXTRA,Alimentação,debito
+DEPÓSITO JOÃO,Receita,credito
+SALARIO EMPRESA ABC,Receita,credito
+RESTAURANTE PIZZA HUT,Lazer,debito
+IMPOSTO FGTS,Impostos,debito
+CONTA ENEL,Moradia,debito
+TRANSFERENCIA ITAU,Transferências,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+FARMACIA DROGASIL,Saúde,debito
+ÔNIBUS SPTRANS,Transporte,debito
+PIX MARIA,Transferências,credito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+CINEMA CINEMARK,Lazer,debito
+FACULDADE ESTÁCIO,Educacao,debito
+IMPOSTO FGTS,Impostos,debito
+SHOW EVENTIM,Lazer,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+IOF CARTÃO,Fatura/Taxas,debito
+CONTA ENEL,Moradia,debito
+RESTAURANTE PIZZA HUT,Lazer,debito
+PIX JOÃO,Transferências,credito
+TRANSFERENCIA BRADESCO,Transferências,credito
+CLINICA SÃO JOSÉ,Saúde,debito
+FACULDADE ESTÁCIO,Educacao,debito
+PIX MARIA,Transferências,debito
+FARMACIA RAIA,Saúde,debito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+PADARIA PÃO QUENTE,Alimentação,debito
+CONTA VIVO FIBRA,Moradia,debito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+CLINICA SÃO JOSÉ,Saúde,debito
+DEPÓSITO JOÃO,Receita,credito
+PAGAMENTO CARTÃO VISA,Fatura/Taxas,debito
+LABORATORIO FLEURY,Saúde,debito
+IMPOSTO DARF,Impostos,debito
+RESTAURANTE OUTBACK,Lazer,debito
+RESTAURANTE PIZZA HUT,Lazer,debito
+IMPOSTO DARF,Impostos,debito
+PADARIA SANTA CLARA,Alimentação,debito
+PIX MARIA,Transferências,credito
+PAGAMENTO AMAZON PRIME,Assinaturas,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+SHOW EVENTIM,Lazer,debito
+IMPOSTO INSS,Impostos,debito
+IOF CARTÃO,Fatura/Taxas,debito
+PAGAMENTO CARTÃO VISA,Fatura/Taxas,debito
+FARMACIA DROGASIL,Saúde,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+RESTAURANTE MCDONALDS,Lazer,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+PAGAMENTO CARTÃO VISA,Fatura/Taxas,debito
+RESTAURANTE MCDONALDS,Lazer,debito
+SHOW EVENTIM,Lazer,debito
+METRÔ SÃO PAULO,Transporte,debito
+FARMACIA DROGASIL,Saúde,debito
+RESTAURANTE OUTBACK,Lazer,debito
+CINEMA CINEMARK,Lazer,debito
+CINEMA CINEMARK,Lazer,debito
+IMPOSTO FGTS,Impostos,debito
+FREELANCE PROJETO XYZ,Receita,credito
+CURSO UDEMY,Educacao,debito
+PADARIA SANTA CLARA,Alimentação,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+MANUTENÇÃO DE CONTA,Fatura/Taxas,debito
+CURSO ALURA,Educacao,debito
+ANUIDADE CARTÃO,Fatura/Taxas,debito
+TARIFA BANCÁRIA,Fatura/Taxas,debito
+CINEMA CINEMARK,Lazer,debito
+VENDA MERCADO LIVRE,Receita,credito
+IMPOSTO INSS,Impostos,debito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+PIX MARIA,Transferências,credito
+RESTAURANTE PIZZA HUT,Lazer,debito
+FREELANCE PROJETO XYZ,Receita,credito
+IOF CARTÃO,Fatura/Taxas,debito
+CLINICA SÃO JOSÉ,Saúde,debito
+UBER VIAGEM,Transporte,debito
+CLINICA SÃO JOSÉ,Saúde,debito
+RESTAURANTE OUTBACK,Lazer,debito
+VENDA MERCADO LIVRE,Receita,credito
+PAGAMENTO NETFLIX,Assinaturas,debito
+IMPOSTO FGTS,Impostos,debito
+CLINICA SÃO JOSÉ,Saúde,debito
+SALARIO EMPRESA XYZ,Receita,credito
+PIX MARIA,Transferências,debito
+MERCADO EXTRA,Alimentação,debito
+FARMACIA RAIA,Saúde,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+ESCOLA DE IDIOMAS WIZARD,Educacao,debito
+SALARIO EMPRESA XYZ,Receita,credito
+CINEMA CINEMARK,Lazer,debito
+PADARIA PÃO QUENTE,Alimentação,debito
+PIX JOÃO,Transferências,credito
+CONTA VIVO FIBRA,Moradia,debito
+VENDA MERCADO LIVRE,Receita,credito
+TARIFA BANCÁRIA,Fatura/Taxas,debito
+99 VIAGEM,Transporte,debito
+LABORATORIO FLEURY,Saúde,debito
+CONTA ENEL,Moradia,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+ÔNIBUS SPTRANS,Transporte,debito
+SALARIO EMPRESA XYZ,Receita,credito
+TARIFA BANCÁRIA,Fatura/Taxas,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+CURSO ALURA,Educacao,debito
+PIX JOÃO,Transferências,credito
+CINEMA CINEMARK,Lazer,debito
+PADARIA SANTA CLARA,Alimentação,debito
+TRANSFERENCIA BRADESCO,Transferências,credito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+IMPOSTO INSS,Impostos,debito
+TARIFA BANCÁRIA,Fatura/Taxas,debito
+TRANSFERENCIA ITAU,Transferências,credito
+PIX ANA,Transferências,debito
+IMPOSTO FGTS,Impostos,debito
+CURSO ALURA,Educacao,debito
+PAGAMENTO NETFLIX,Assinaturas,debito

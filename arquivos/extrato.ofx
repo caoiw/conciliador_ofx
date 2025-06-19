@@ -18,15 +18,15 @@ NEWFILEUID:NONE
       <DTSERVER>20250619120000[-3:GMT]</DTSERVER>
       <LANGUAGE>POR</LANGUAGE>
       <FI>
-        <ORG>Banco Exemplo</ORG>
-        <FID>1234</FID>
+        <ORG>Banco Exemplo SA</ORG>
+        <FID>9876</FID>
       </FI>
     </SONRS>
   </SIGNONMSGSRSV1>
-  
+
   <BANKMSGSRSV1>
     <STMTTRNRS>
-      <TRNUID>1</TRNUID>
+      <TRNUID>1001</TRNUID>
       <STATUS>
         <CODE>0</CODE>
         <SEVERITY>INFO</SEVERITY>
@@ -34,58 +34,427 @@ NEWFILEUID:NONE
       <STMTRS>
         <CURDEF>BRL</CURDEF>
         <BANKACCTFROM>
-          <BANKID>001</BANKID>
-          <ACCTID>123456-7</ACCTID>
+          <BANKID>341</BANKID>
+          <ACCTID>987654-3</ACCTID>
           <ACCTTYPE>CHECKING</ACCTTYPE>
         </BANKACCTFROM>
-        
+
         <BANKTRANLIST>
-          <DTSTART>20250601000000</DTSTART>
+          <DTSTART>20250501000000</DTSTART>
           <DTEND>20250619000000</DTEND>
           
           <STMTTRN>
             <TRNTYPE>DEBIT</TRNTYPE>
-            <DTPOSTED>20250601120000</DTPOSTED>
-            <TRNAMT>-150.00</TRNAMT>
-            <FITID>20250601A1</FITID>
-            <NAME>Supermercado XYZ</NAME>
-            <MEMO>Compra no Supermercado</MEMO>
+            <DTPOSTED>20250523120000</DTPOSTED>
+            <TRNAMT>-934.94</TRNAMT>
+            <FITID>20250523000</FITID>
+            <NAME>FARMACIA DROGASIL</NAME>
+            <MEMO>FARMACIA DROGASIL</MEMO>
           </STMTTRN>
-          
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250503120000</DTPOSTED>
+            <TRNAMT>-249.46</TRNAMT>
+            <FITID>20250503001</FITID>
+            <NAME>ESCOLA DE IDIOMAS WIZARD</NAME>
+            <MEMO>ESCOLA DE IDIOMAS WIZARD</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250524120000</DTPOSTED>
+            <TRNAMT>-609.45</TRNAMT>
+            <FITID>20250524002</FITID>
+            <NAME>PIX MARIA</NAME>
+            <MEMO>PIX MARIA</MEMO>
+          </STMTTRN>
           <STMTTRN>
             <TRNTYPE>CREDIT</TRNTYPE>
-            <DTPOSTED>20250605120000</DTPOSTED>
-            <TRNAMT>2500.00</TRNAMT>
-            <FITID>20250605B1</FITID>
-            <NAME>Empresa ABC Ltda</NAME>
-            <MEMO>Salário Mensal</MEMO>
+            <DTPOSTED>20250508120000</DTPOSTED>
+            <TRNAMT>387.86</TRNAMT>
+            <FITID>20250508003</FITID>
+            <NAME>SALARIO EMPRESA ABC</NAME>
+            <MEMO>SALARIO EMPRESA ABC</MEMO>
           </STMTTRN>
-          
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250524120000</DTPOSTED>
+            <TRNAMT>-1440.92</TRNAMT>
+            <FITID>20250524004</FITID>
+            <NAME>PAGAMENTO NETFLIX</NAME>
+            <MEMO>PAGAMENTO NETFLIX</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250504120000</DTPOSTED>
+            <TRNAMT>-1755.01</TRNAMT>
+            <FITID>20250504005</FITID>
+            <NAME>CONTA VIVO FIBRA</NAME>
+            <MEMO>CONTA VIVO FIBRA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250510120000</DTPOSTED>
+            <TRNAMT>-926.71</TRNAMT>
+            <FITID>20250510006</FITID>
+            <NAME>CURSO ALURA</NAME>
+            <MEMO>CURSO ALURA</MEMO>
+          </STMTTRN>
           <STMTTRN>
             <TRNTYPE>DEBIT</TRNTYPE>
             <DTPOSTED>20250610120000</DTPOSTED>
-            <TRNAMT>-200.00</TRNAMT>
-            <FITID>20250610C1</FITID>
-            <NAME>Posto de Gasolina</NAME>
-            <MEMO>Abastecimento</MEMO>
+            <TRNAMT>-1010.3</TRNAMT>
+            <FITID>20250610007</FITID>
+            <NAME>TRANSFERENCIA ITAU</NAME>
+            <MEMO>TRANSFERENCIA ITAU</MEMO>
           </STMTTRN>
-          
           <STMTTRN>
             <TRNTYPE>DEBIT</TRNTYPE>
-            <DTPOSTED>20250615120000</DTPOSTED>
-            <TRNAMT>-500.00</TRNAMT>
-            <FITID>20250615D1</FITID>
-            <NAME>Aluguel</NAME>
-            <MEMO>Pagamento de aluguel</MEMO>
+            <DTPOSTED>20250514120000</DTPOSTED>
+            <TRNAMT>-1463.53</TRNAMT>
+            <FITID>20250514008</FITID>
+            <NAME>SUPERMERCADO PÃO DE AÇÚCAR</NAME>
+            <MEMO>SUPERMERCADO PÃO DE AÇÚCAR</MEMO>
           </STMTTRN>
-          
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250509120000</DTPOSTED>
+            <TRNAMT>-1531.8</TRNAMT>
+            <FITID>20250509009</FITID>
+            <NAME>TARIFA BANCÁRIA</NAME>
+            <MEMO>TARIFA BANCÁRIA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250502120000</DTPOSTED>
+            <TRNAMT>-1403.04</TRNAMT>
+            <FITID>20250502010</FITID>
+            <NAME>TARIFA BANCÁRIA</NAME>
+            <MEMO>TARIFA BANCÁRIA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250531120000</DTPOSTED>
+            <TRNAMT>-92.99</TRNAMT>
+            <FITID>20250531011</FITID>
+            <NAME>COMBUSTIVEL POSTO SHELL</NAME>
+            <MEMO>COMBUSTIVEL POSTO SHELL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250528120000</DTPOSTED>
+            <TRNAMT>-1252.37</TRNAMT>
+            <FITID>20250528012</FITID>
+            <NAME>CURSO ALURA</NAME>
+            <MEMO>CURSO ALURA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250504120000</DTPOSTED>
+            <TRNAMT>-306.27</TRNAMT>
+            <FITID>20250504013</FITID>
+            <NAME>FARMACIA DROGASIL</NAME>
+            <MEMO>FARMACIA DROGASIL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250502120000</DTPOSTED>
+            <TRNAMT>1208.52</TRNAMT>
+            <FITID>20250502014</FITID>
+            <NAME>SALARIO EMPRESA ABC</NAME>
+            <MEMO>SALARIO EMPRESA ABC</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250526120000</DTPOSTED>
+            <TRNAMT>-452.72</TRNAMT>
+            <FITID>20250526015</FITID>
+            <NAME>COMBUSTIVEL POSTO SHELL</NAME>
+            <MEMO>COMBUSTIVEL POSTO SHELL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250616120000</DTPOSTED>
+            <TRNAMT>-1193.09</TRNAMT>
+            <FITID>20250616016</FITID>
+            <NAME>COMBUSTIVEL POSTO SHELL</NAME>
+            <MEMO>COMBUSTIVEL POSTO SHELL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250520120000</DTPOSTED>
+            <TRNAMT>-1457.14</TRNAMT>
+            <FITID>20250520017</FITID>
+            <NAME>PADARIA SANTA CLARA</NAME>
+            <MEMO>PADARIA SANTA CLARA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250507120000</DTPOSTED>
+            <TRNAMT>-708.66</TRNAMT>
+            <FITID>20250507018</FITID>
+            <NAME>IMPOSTO DARF</NAME>
+            <MEMO>IMPOSTO DARF</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250518120000</DTPOSTED>
+            <TRNAMT>416.99</TRNAMT>
+            <FITID>20250518019</FITID>
+            <NAME>VENDA MERCADO LIVRE</NAME>
+            <MEMO>VENDA MERCADO LIVRE</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250501120000</DTPOSTED>
+            <TRNAMT>-1498.18</TRNAMT>
+            <FITID>20250501020</FITID>
+            <NAME>LABORATORIO FLEURY</NAME>
+            <MEMO>LABORATORIO FLEURY</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250608120000</DTPOSTED>
+            <TRNAMT>-1289.76</TRNAMT>
+            <FITID>20250608021</FITID>
+            <NAME>IOF CARTÃO</NAME>
+            <MEMO>IOF CARTÃO</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250617120000</DTPOSTED>
+            <TRNAMT>1092.52</TRNAMT>
+            <FITID>20250617022</FITID>
+            <NAME>PIX MARIA</NAME>
+            <MEMO>PIX MARIA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250516120000</DTPOSTED>
+            <TRNAMT>-1963.81</TRNAMT>
+            <FITID>20250516023</FITID>
+            <NAME>ESCOLA DE IDIOMAS WIZARD</NAME>
+            <MEMO>ESCOLA DE IDIOMAS WIZARD</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250524120000</DTPOSTED>
+            <TRNAMT>-1785.83</TRNAMT>
+            <FITID>20250524024</FITID>
+            <NAME>IMPOSTO INSS</NAME>
+            <MEMO>IMPOSTO INSS</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250507120000</DTPOSTED>
+            <TRNAMT>393.94</TRNAMT>
+            <FITID>20250507025</FITID>
+            <NAME>SALARIO EMPRESA ABC</NAME>
+            <MEMO>SALARIO EMPRESA ABC</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250511120000</DTPOSTED>
+            <TRNAMT>-99.97</TRNAMT>
+            <FITID>20250511026</FITID>
+            <NAME>IMPOSTO FGTS</NAME>
+            <MEMO>IMPOSTO FGTS</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250506120000</DTPOSTED>
+            <TRNAMT>-672.88</TRNAMT>
+            <FITID>20250506027</FITID>
+            <NAME>CONTA SABESP</NAME>
+            <MEMO>CONTA SABESP</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250508120000</DTPOSTED>
+            <TRNAMT>-1708.84</TRNAMT>
+            <FITID>20250508028</FITID>
+            <NAME>COMBUSTIVEL POSTO SHELL</NAME>
+            <MEMO>COMBUSTIVEL POSTO SHELL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250606120000</DTPOSTED>
+            <TRNAMT>-1331.33</TRNAMT>
+            <FITID>20250606029</FITID>
+            <NAME>SHOW EVENTIM</NAME>
+            <MEMO>SHOW EVENTIM</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250516120000</DTPOSTED>
+            <TRNAMT>1666.69</TRNAMT>
+            <FITID>20250516030</FITID>
+            <NAME>SALARIO EMPRESA ABC</NAME>
+            <MEMO>SALARIO EMPRESA ABC</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250520120000</DTPOSTED>
+            <TRNAMT>657.48</TRNAMT>
+            <FITID>20250520031</FITID>
+            <NAME>PIX JOÃO</NAME>
+            <MEMO>PIX JOÃO</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250501120000</DTPOSTED>
+            <TRNAMT>-1995.93</TRNAMT>
+            <FITID>20250501032</FITID>
+            <NAME>ÔNIBUS SPTRANS</NAME>
+            <MEMO>ÔNIBUS SPTRANS</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250501120000</DTPOSTED>
+            <TRNAMT>-1935.44</TRNAMT>
+            <FITID>20250501033</FITID>
+            <NAME>RESTAURANTE PIZZA HUT</NAME>
+            <MEMO>RESTAURANTE PIZZA HUT</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250513120000</DTPOSTED>
+            <TRNAMT>-1548.97</TRNAMT>
+            <FITID>20250513034</FITID>
+            <NAME>PADARIA SANTA CLARA</NAME>
+            <MEMO>PADARIA SANTA CLARA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250608120000</DTPOSTED>
+            <TRNAMT>1909.67</TRNAMT>
+            <FITID>20250608035</FITID>
+            <NAME>FREELANCE PROJETO XYZ</NAME>
+            <MEMO>FREELANCE PROJETO XYZ</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250610120000</DTPOSTED>
+            <TRNAMT>-1063.52</TRNAMT>
+            <FITID>20250610036</FITID>
+            <NAME>FARMACIA RAIA</NAME>
+            <MEMO>FARMACIA RAIA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250614120000</DTPOSTED>
+            <TRNAMT>-1059.68</TRNAMT>
+            <FITID>20250614037</FITID>
+            <NAME>PAGAMENTO CARTÃO VISA</NAME>
+            <MEMO>PAGAMENTO CARTÃO VISA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250611120000</DTPOSTED>
+            <TRNAMT>-828.52</TRNAMT>
+            <FITID>20250611038</FITID>
+            <NAME>99 VIAGEM</NAME>
+            <MEMO>99 VIAGEM</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250510120000</DTPOSTED>
+            <TRNAMT>-59.85</TRNAMT>
+            <FITID>20250510039</FITID>
+            <NAME>PAGAMENTO NETFLIX</NAME>
+            <MEMO>PAGAMENTO NETFLIX</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250513120000</DTPOSTED>
+            <TRNAMT>-170.66</TRNAMT>
+            <FITID>20250513040</FITID>
+            <NAME>PAGAMENTO ALUGUEL</NAME>
+            <MEMO>PAGAMENTO ALUGUEL</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250617120000</DTPOSTED>
+            <TRNAMT>-543.42</TRNAMT>
+            <FITID>20250617041</FITID>
+            <NAME>PAGAMENTO CARTÃO VISA</NAME>
+            <MEMO>PAGAMENTO CARTÃO VISA</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250501120000</DTPOSTED>
+            <TRNAMT>-1362.92</TRNAMT>
+            <FITID>20250501042</FITID>
+            <NAME>ÔNIBUS SPTRANS</NAME>
+            <MEMO>ÔNIBUS SPTRANS</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250505120000</DTPOSTED>
+            <TRNAMT>-927.81</TRNAMT>
+            <FITID>20250505043</FITID>
+            <NAME>ÔNIBUS SPTRANS</NAME>
+            <MEMO>ÔNIBUS SPTRANS</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250613120000</DTPOSTED>
+            <TRNAMT>299.88</TRNAMT>
+            <FITID>20250613044</FITID>
+            <NAME>FREELANCE PROJETO XYZ</NAME>
+            <MEMO>FREELANCE PROJETO XYZ</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250607120000</DTPOSTED>
+            <TRNAMT>-967.66</TRNAMT>
+            <FITID>20250607045</FITID>
+            <NAME>PADARIA PÃO QUENTE</NAME>
+            <MEMO>PADARIA PÃO QUENTE</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250507120000</DTPOSTED>
+            <TRNAMT>-575.67</TRNAMT>
+            <FITID>20250507046</FITID>
+            <NAME>SUPERMERCADO PÃO DE AÇÚCAR</NAME>
+            <MEMO>SUPERMERCADO PÃO DE AÇÚCAR</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250616120000</DTPOSTED>
+            <TRNAMT>-1843.8</TRNAMT>
+            <FITID>20250616047</FITID>
+            <NAME>CURSO UDEMY</NAME>
+            <MEMO>CURSO UDEMY</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250616120000</DTPOSTED>
+            <TRNAMT>-1689.78</TRNAMT>
+            <FITID>20250616048</FITID>
+            <NAME>PAGAMENTO AMAZON PRIME</NAME>
+            <MEMO>PAGAMENTO AMAZON PRIME</MEMO>
+          </STMTTRN>
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250501120000</DTPOSTED>
+            <TRNAMT>-114.05</TRNAMT>
+            <FITID>20250501049</FITID>
+            <NAME>CONTA ENEL</NAME>
+            <MEMO>CONTA ENEL</MEMO>
+          </STMTTRN>
         </BANKTRANLIST>
-        
+
         <LEDGERBAL>
-          <BALAMT>1650.00</BALAMT>
+          <BALAMT>-30793.13</BALAMT>
           <DTASOF>20250619000000</DTASOF>
         </LEDGERBAL>
-        
+
+        <AVAILBAL>
+          <BALAMT>-30793.13</BALAMT>
+          <DTASOF>20250619000000</DTASOF>
+        </AVAILBAL>
+
       </STMTRS>
     </STMTTRNRS>
   </BANKMSGSRSV1>

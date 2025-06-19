@@ -1,0 +1,208 @@
+Descricao,Categoria,Tipo
+SALARIO MENSAL - EMPRESA XYZ,Receita,credito
+SALARIO JUNHO - EMPRESA ABC,Receita,credito
+TRANSFERENCIA RECEBIDA JOAO SILVA,Receita,credito
+TRANSFERENCIA DOC MARIA,Receita,credito
+DEVOLUCAO COMPRA AMAZON,Reembolso,credito
+VENDA OLX CELULAR,Receita,credito
+VENDA MERCADO LIVRE,Receita,credito
+FREELANCE SITE,Receita,credito
+REEMBOLSO PLANO DE SAUDE,Reembolso,credito
+DEPÓSITO CAIXA ELETRÔNICO,Receita,credito
+DEPÓSITO TED BANCO ITAU,Receita,credito
+PIX RECEBIDO ANA,Receita,credito
+PIX RECEBIDO EMPRESA,Receita,credito
+BONUS EMPRESA,Receita,credito
+AJUDA FAMILIAR,Receita,credito
+SUPERMERCADO CARREFOUR,Alimentação,debito
+SUPERMERCADO EXTRA,Alimentação,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+SUPERMERCADO DIA,Alimentação,debito
+SUPERMERCADO ASSAÍ,Alimentação,debito
+PADARIA SANTA CLARA,Alimentação,debito
+PADARIA PÃO QUENTE,Alimentação,debito
+RESTAURANTE PIZZA HUT,Alimentação,debito
+RESTAURANTE OUTBACK,Alimentação,debito
+RESTAURANTE MCDONALDS,Alimentação,debito
+RESTAURANTE BURGER KING,Alimentação,debito
+IFOOD DELIVERY,Alimentação,debito
+UBER VIAGEM,Transporte,debito
+UBER CORRIDA,Transporte,debito
+99 VIAGEM,Transporte,debito
+99 CORRIDA,Transporte,debito
+METRÔ SÃO PAULO,Transporte,debito
+METRÔ LINHA AZUL,Transporte,debito
+ÔNIBUS SPTRANS,Transporte,debito
+ÔNIBUS URBANO,Transporte,debito
+COMBUSTIVEL POSTO SHELL,Transporte,debito
+COMBUSTIVEL POSTO IPIRANGA,Transporte,debito
+ESTACIONAMENTO SHOPPING,Transporte,debito
+ESTACIONAMENTO AEROPORTO,Transporte,debito
+PAGAMENTO NETFLIX,Assinaturas,debito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+PAGAMENTO AMAZON PRIME,Assinaturas,debito
+PAGAMENTO DISNEY PLUS,Assinaturas,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+PAGAMENTO GLOBO PLAY,Assinaturas,debito
+PAGAMENTO REVISTA VEJA,Assinaturas,debito
+PAGAMENTO CLUBE LIVRO,Assinaturas,debito
+PAGAMENTO APPLE MUSIC,Assinaturas,debito
+PAGAMENTO YOUTUBE PREMIUM,Assinaturas,debito
+FARMACIA DROGASIL,Saúde,debito
+FARMACIA RAIA,Saúde,debito
+FARMACIA SÃO PAULO,Saúde,debito
+CONSULTA DENTISTA,Saúde,debito
+CONSULTA MEDICA,Saúde,debito
+EXAME LABORATORIO,Saúde,debito
+HOSPITAL SANTA CASA,Saúde,debito
+PLANO DE SAUDE UNIMED,Saúde,debito
+PLANO DE SAUDE BRADESCO,Saúde,debito
+VACINA CLINICA,Saúde,debito
+ALUGUEL APARTAMENTO,Moradia,debito
+ALUGUEL CASA,Moradia,debito
+PAGAMENTO CONDOMINIO,Moradia,debito
+CONTA DE LUZ ENEL,Moradia,debito
+CONTA DE AGUA SABESP,Moradia,debito
+CONTA DE GAS COMGAS,Moradia,debito
+CONTA INTERNET VIVO,Moradia,debito
+CONTA INTERNET CLARO,Moradia,debito
+CONTA TELEFONE TIM,Moradia,debito
+CONTA VIVO FIBRA,Moradia,debito
+CONTA ENERGIA ELEKTRO,Moradia,debito
+PAGAMENTO SALDO CARTAO VISA,Cartão de Crédito,debito
+PAGAMENTO SALDO CARTAO MASTERCARD,Cartão de Crédito,debito
+PAGAMENTO FATURA CARTAO ITAU,Cartão de Crédito,debito
+PAGAMENTO FATURA CARTAO SANTANDER,Cartão de Crédito,debito
+ANUIDADE CARTÃO,Cartão de Crédito,debito
+IOF CARTÃO,Cartão de Crédito,debito
+TARIFA BANCÁRIA,Cartão de Crédito,debito
+IPHONE LOJA APPLE,Eletrônicos,debito
+NOTEBOOK LOJA DELL,Eletrônicos,debito
+FONE DE OUVIDO LOJA SONY,Eletrônicos,debito
+TABLET LOJA SAMSUNG,Eletrônicos,debito
+CURSO UDEMY,Educacao,debito
+CURSO ALURA,Educacao,debito
+FACULDADE ESTÁCIO,Educacao,debito
+ESCOLA DE IDIOMAS WIZARD,Educacao,debito
+LIVRARIA CULTURA,Educacao,debito
+CINEMA CINEMARK,Lazer,debito
+SHOW EVENTIM,Lazer,debito
+TEATRO MUNICIPAL,Lazer,debito
+PAGAMENTO HBO MAX,Assinaturas,debito
+IMPOSTO INSS,Impostos,debito
+IMPOSTO FGTS,Impostos,debito
+IMPOSTO DARF,Impostos,debito
+IMPOSTO IPTU,Impostos,debito
+IMPOSTO IPVA,Impostos,debito
+TRANSFERENCIA ITAU,Transferências,debito
+TRANSFERENCIA ITAU,Transferências,credito
+TRANSFERENCIA BRADESCO,Transferências,debito
+TRANSFERENCIA BRADESCO,Transferências,credito
+PIX MARIA,Transferências,debito
+PIX MARIA,Transferências,credito
+PIX JOÃO,Transferências,debito
+PIX JOÃO,Transferências,credito
+PIX ANA,Transferências,debito
+PIX ANA,Transferências,credito
+DEPÓSITO JOÃO,Receita,credito
+DEPÓSITO JOÃO,Receita,debito
+AJUDA FAMILIAR,Receita,credito
+AJUDA FAMILIAR,Receita,debito
+FREELANCE PROJETO XYZ,Receita,credito
+FREELANCE PROJETO XYZ,Receita,debito
+VENDA MERCADO LIVRE,Receita,credito
+VENDA MERCADO LIVRE,Receita,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,credito
+PADARIA SANTA CLARA,Alimentação,debito
+PADARIA SANTA CLARA,Alimentação,credito
+RESTAURANTE PIZZA HUT,Alimentação,debito
+RESTAURANTE PIZZA HUT,Alimentação,credito
+UBER VIAGEM,Transporte,debito
+UBER VIAGEM,Transporte,credito
+99 VIAGEM,Transporte,debito
+99 VIAGEM,Transporte,credito
+METRÔ SÃO PAULO,Transporte,debito
+METRÔ SÃO PAULO,Transporte,credito
+ÔNIBUS SPTRANS,Transporte,debito
+ÔNIBUS SPTRANS,Transporte,credito
+COMBUSTIVEL POSTO SHELL,Transporte,debito
+COMBUSTIVEL POSTO SHELL,Transporte,credito
+ESTACIONAMENTO SHOPPING,Transporte,debito
+ESTACIONAMENTO SHOPPING,Transporte,credito
+PAGAMENTO NETFLIX,Assinaturas,debito
+PAGAMENTO NETFLIX,Assinaturas,credito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+PAGAMENTO SPOTIFY,Assinaturas,credito
+FARMACIA DROGASIL,Saúde,debito
+FARMACIA DROGASIL,Saúde,credito
+ALUGUEL APARTAMENTO,Moradia,debito
+ALUGUEL APARTAMENTO,Moradia,credito
+PAGAMENTO CONDOMINIO,Moradia,debito
+PAGAMENTO CONDOMINIO,Moradia,credito
+CONTA DE LUZ ENEL,Moradia,debito
+CONTA DE LUZ ENEL,Moradia,credito
+PAGAMENTO SALDO CARTAO VISA,Cartão de Crédito,debito
+PAGAMENTO SALDO CARTAO VISA,Cartão de Crédito,credito
+IPHONE LOJA APPLE,Eletrônicos,debito
+IPHONE LOJA APPLE,Eletrônicos,credito
+CURSO UDEMY,Educacao,debito
+CURSO UDEMY,Educacao,credito
+CINEMA CINEMARK,Lazer,debito
+CINEMA CINEMARK,Lazer,credito
+IMPOSTO INSS,Impostos,debito
+IMPOSTO INSS,Impostos,credito
+TRANSFERENCIA ITAU,Transferências,debito
+TRANSFERENCIA ITAU,Transferências,credito
+PIX MARIA,Transferências,debito
+PIX MARIA,Transferências,credito
+DEPÓSITO JOÃO,Receita,credito
+DEPÓSITO JOÃO,Receita,debito
+FREELANCE PROJETO XYZ,Receita,credito
+FREELANCE PROJETO XYZ,Receita,debito
+VENDA MERCADO LIVRE,Receita,credito
+VENDA MERCADO LIVRE,Receita,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,debito
+SUPERMERCADO PÃO DE AÇÚCAR,Alimentação,credito
+PADARIA SANTA CLARA,Alimentação,debito
+PADARIA SANTA CLARA,Alimentação,credito
+RESTAURANTE PIZZA HUT,Alimentação,debito
+RESTAURANTE PIZZA HUT,Alimentação,credito
+UBER VIAGEM,Transporte,debito
+UBER VIAGEM,Transporte,credito
+99 VIAGEM,Transporte,debito
+99 VIAGEM,Transporte,credito
+METRÔ SÃO PAULO,Transporte,debito
+METRÔ SÃO PAULO,Transporte,credito
+ÔNIBUS SPTRANS,Transporte,debito
+ÔNIBUS SPTRANS,Transporte,credito
+COMBUSTIVEL POSTO SHELL,Transporte,debito
+COMBUSTIVEL POSTO SHELL,Transporte,credito
+ESTACIONAMENTO SHOPPING,Transporte,debito
+ESTACIONAMENTO SHOPPING,Transporte,credito
+PAGAMENTO NETFLIX,Assinaturas,debito
+PAGAMENTO NETFLIX,Assinaturas,credito
+PAGAMENTO SPOTIFY,Assinaturas,debito
+PAGAMENTO SPOTIFY,Assinaturas,credito
+FARMACIA DROGASIL,Saúde,debito
+FARMACIA DROGASIL,Saúde,credito
+ALUGUEL APARTAMENTO,Moradia,debito
+ALUGUEL APARTAMENTO,Moradia,credito
+PAGAMENTO CONDOMINIO,Moradia,debito
+PAGAMENTO CONDOMINIO,Moradia,credito
+CONTA DE LUZ ENEL,Moradia,debito
+CONTA DE LUZ ENEL,Moradia,credito
+PAGAMENTO SALDO CARTAO VISA,Cartão de Crédito,debito
+PAGAMENTO SALDO CARTAO VISA,Cartão de Crédito,credito
+IPHONE LOJA APPLE,Eletrônicos,debito
+IPHONE LOJA APPLE,Eletrônicos,credito
+CURSO UDEMY,Educacao,debito
+CURSO UDEMY,Educacao,credito
+CINEMA CINEMARK,Lazer,debito
+CINEMA CINEMARK,Lazer,credito
+IMPOSTO INSS,Impostos,debito
+IMPOSTO INSS,Impostos,credito
+OUTROS AJUSTES,Outros,debito
+OUTROS AJUSTES,Outros,credito
+SALDO CARTAO MASTERCARD,Outros,credito
+SALDO CARTAO MASTERCARD,Outros,debito
