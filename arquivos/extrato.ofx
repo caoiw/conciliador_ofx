@@ -1,0 +1,92 @@
+OFXHEADER:100
+DATA:OFXSGML
+VERSION:102
+SECURITY:NONE
+ENCODING:USASCII
+CHARSET:1252
+COMPRESSION:NONE
+OLDFILEUID:NONE
+NEWFILEUID:NONE
+
+<OFX>
+  <SIGNONMSGSRSV1>
+    <SONRS>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <DTSERVER>20250619120000[-3:GMT]</DTSERVER>
+      <LANGUAGE>POR</LANGUAGE>
+      <FI>
+        <ORG>Banco Exemplo</ORG>
+        <FID>1234</FID>
+      </FI>
+    </SONRS>
+  </SIGNONMSGSRSV1>
+  
+  <BANKMSGSRSV1>
+    <STMTTRNRS>
+      <TRNUID>1</TRNUID>
+      <STATUS>
+        <CODE>0</CODE>
+        <SEVERITY>INFO</SEVERITY>
+      </STATUS>
+      <STMTRS>
+        <CURDEF>BRL</CURDEF>
+        <BANKACCTFROM>
+          <BANKID>001</BANKID>
+          <ACCTID>123456-7</ACCTID>
+          <ACCTTYPE>CHECKING</ACCTTYPE>
+        </BANKACCTFROM>
+        
+        <BANKTRANLIST>
+          <DTSTART>20250601000000</DTSTART>
+          <DTEND>20250619000000</DTEND>
+          
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250601120000</DTPOSTED>
+            <TRNAMT>-150.00</TRNAMT>
+            <FITID>20250601A1</FITID>
+            <NAME>Supermercado XYZ</NAME>
+            <MEMO>Compra no Supermercado</MEMO>
+          </STMTTRN>
+          
+          <STMTTRN>
+            <TRNTYPE>CREDIT</TRNTYPE>
+            <DTPOSTED>20250605120000</DTPOSTED>
+            <TRNAMT>2500.00</TRNAMT>
+            <FITID>20250605B1</FITID>
+            <NAME>Empresa ABC Ltda</NAME>
+            <MEMO>Salário Mensal</MEMO>
+          </STMTTRN>
+          
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250610120000</DTPOSTED>
+            <TRNAMT>-200.00</TRNAMT>
+            <FITID>20250610C1</FITID>
+            <NAME>Posto de Gasolina</NAME>
+            <MEMO>Abastecimento</MEMO>
+          </STMTTRN>
+          
+          <STMTTRN>
+            <TRNTYPE>DEBIT</TRNTYPE>
+            <DTPOSTED>20250615120000</DTPOSTED>
+            <TRNAMT>-500.00</TRNAMT>
+            <FITID>20250615D1</FITID>
+            <NAME>Aluguel</NAME>
+            <MEMO>Pagamento de aluguel</MEMO>
+          </STMTTRN>
+          
+        </BANKTRANLIST>
+        
+        <LEDGERBAL>
+          <BALAMT>1650.00</BALAMT>
+          <DTASOF>20250619000000</DTASOF>
+        </LEDGERBAL>
+        
+      </STMTRS>
+    </STMTTRNRS>
+  </BANKMSGSRSV1>
+</OFX>
